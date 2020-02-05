@@ -5,3 +5,14 @@ h1{
   text-align: center;
 }
 
+em{
+  font-weight: bold;
+
+}
+
+strong{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+
+}
+
